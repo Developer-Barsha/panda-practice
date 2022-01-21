@@ -1,0 +1,19 @@
+.bg-cover{
+    background-color: #FCEAE8;
+}
+.btn-color{
+    background-color: #FF2E80;
+    color: #ffff;
+    border: none;
+}
+#categories img{
+    width: 100px;
+}
+.btn-color:hover{
+    box-shadow: 10px 10px 10px #c0acac51;
+    color: #FCEAE8;
+    background-image: linear-gradient(to bottom, #f370a4 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
